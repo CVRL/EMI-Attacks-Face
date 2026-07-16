@@ -18,6 +18,11 @@ Attacks on general computer vision algorithms are often relegated to the digital
 biometrics, including facial recognition, physical presentation attacks targeting biometric sensors are dominant and present significant opportunity and risk. This paper highlights a critical vulnerability in the physical-to-digital pipeline of biometric sensors and provides a standardized approach for testing facial recognition system robustness against hardware attacks, going beyond and potentially complementing presentation attacks (as defined in ISO/IEC 30107 standard series). Specifically, in this work we (a) demonstrate that intentional electromagnetic interference
 is possible to be conducted with commonly accessible radio frequency (RF) equipment, (b) assess the robustness of state-of-the-art face recognition methods against RF-based attacks, and (c) provide a dataset composed of face images captured with and without electromagnetic interference to serve as a new benchmark for testing modern face matchers against RF-sourced interference.
 
+<p align="center">
+  <img src="GitHub_media/HardwareSetup.png" width="500" alt="RF Attack Overview">
+  <h1 align="center">Intentional Electromagnetic Interference Attacks on Facial Recognition</h1>
+</p>
+
 <a name="datasets"/></a>
 ## 📀 Datasets
 
@@ -25,12 +30,12 @@ is possible to be conducted with commonly accessible radio frequency (RF) equipm
 We provide a new dataset of face videos representing 50 identities, recaptured from MBGC (Multiple Biometric Grand Challenge) V2, by a camera under the IEMI attack along with recaptured videos without the IEMI attack, to serve as a new benchmark for testing reliability of face recognition models. There are four folders contained in the dataset: Original identities, Clean identities, Physical Attack identities, and Digital Attack identities. If desired, please acquire the original MBCG v2 dataset for full testing purposes. 
 
 <p align="center">
-  <img src="media/02463d566_original.png" width="300">
-  <img src="media/02463d566_clean.png" width="300">
-  <img src="media/02463d566_attack_digital.png" width="300">
-  <img src="media/02463d566_attack.png" width="300">
+  <img src="GitHub_media/02463d564_original.jpg" width="300">
+  <img src="GitHub_media/02463d566_clean.png" width="300">
+  <img src="GitHub_media/02463d566_attack_digital.png" width="300">
+  <img src="GitHub_media/02463d566_attack.png" width="300">
   <br>
-  <i>(a) Original MBCG v2 Image, (b) Clean Image, (c) Modeled Attack, (d) Physical Attack</i>
+  <i>(a) Original MBCG v2 Image (top left), (b) Clean Image (top right), (c) Modeled Attack (bottom left), (d) Physical Attack (bottom right)</i>
 </p>
 
 
