@@ -30,10 +30,11 @@ is possible to be conducted with commonly accessible radio frequency (RF) equipm
 We provide a new dataset of face videos representing 50 identities, recaptured from MBGC (Multiple Biometric Grand Challenge) V2, by a camera under the IEMI attack along with recaptured videos without the IEMI attack, to serve as a new benchmark for testing reliability of face recognition models. There are four folders contained in the dataset: Original identities, Clean identities, Physical Attack identities, and Digital Attack identities. If desired, please acquire the original MBCG v2 dataset for full testing purposes. 
 
 <p align="center">
-  <img src="GitHub_media/02463d564_original.jpg" width="300">
-  <img src="GitHub_media/02463d566_clean.png" width="300">
-  <img src="GitHub_media/02463d566_attack_digital.png" width="300">
-  <img src="GitHub_media/02463d566_attack.png" width="300">
+  <img src="GitHub_media/02463d564_original.jpg" width="275">
+  <img src="GitHub_media/02463d566_clean.png" width="275">
+  <br>
+  <img src="GitHub_media/02463d566_attack_digital.png" width="275">
+  <img src="GitHub_media/02463d566_attack.png" width="275">
   <br>
   <i>(a) Original MBCG v2 Image (top left), (b) Clean Image (top right), (c) Modeled Attack (bottom left), (d) Physical Attack (bottom right)</i>
 </p>
