@@ -1,6 +1,6 @@
 # Intentional Electromagnetic Interference Attacks on Facial Recognition
 
-Official GitHub repository for the paper: Tyler Fitzsimmons and Adam Czajka, "Intentional Electromagnetic Interference Attacks on Facial Recognition," IEEE/IAPR International Joint Conference on Biometrics, Rome, Italy, September 1-4, 2026 **([ArXiv]() | [IEEEXplore]())**
+Official GitHub repository for the paper: Tyler Fitzsimmons and Adam Czajka, "Intentional Electromagnetic Interference Attacks on Facial Recognition," IEEE/IAPR International Joint Conference on Biometrics, Rome, Italy, September 1-4, 2026 **([ArXiv](https://arxiv.org/abs/2607.15512) | [IEEEXplore]())**
 
 
 
