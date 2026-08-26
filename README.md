@@ -20,7 +20,6 @@ is possible to be conducted with commonly accessible radio frequency (RF) equipm
 
 <p align="center">
   <img src="GitHub_media/HardwareSetup.png" width="500" alt="RF Attack Overview">
-  <h1 align="center">Intentional Electromagnetic Interference Attacks on Facial Recognition</h1>
 </p>
 
 <a name="datasets"/></a>
@@ -30,25 +29,24 @@ is possible to be conducted with commonly accessible radio frequency (RF) equipm
 We provide a new dataset of face videos representing 50 identities, recaptured from MBGC (Multiple Biometric Grand Challenge) V2, by a camera under the IEMI attack along with recaptured videos without the IEMI attack, to serve as a new benchmark for testing reliability of face recognition models. There are four folders contained in the dataset: Original identities, Clean identities, Physical Attack identities, and Digital Attack identities. If desired, please acquire the original MBCG v2 dataset for full testing purposes. 
 
 <p align="center">
-  <img src="GitHub_media/02463d564_original.jpg" width="275">
-  <img src="GitHub_media/02463d566_clean.png" width="275">
-  <br>
-  <img src="GitHub_media/02463d566_attack_digital.png" width="275">
-  <img src="GitHub_media/02463d566_attack.png" width="275">
+  <img src="GitHub_media/02463d564_original.jpg" width="175">
+  <img src="GitHub_media/02463d566_clean.png" width="175">
+  <img src="GitHub_media/02463d566_attack_digital.png" width="175">
+  <img src="GitHub_media/02463d566_attack.png" width="175">
   <br>
   <i>(a) Original MBCG v2 Image (top left), (b) Clean Image (top right), (c) Modeled Attack (bottom left), (d) Physical Attack (bottom right)</i>
 </p>
 
 
 ### Obtaining Copies of the Datasets
-Instructions on how to request a copy of the fingeprint annotation study data and the saliency varieties used in this paper can be found at [the CVRL webpage](https://cvrl.nd.edu/projects/data/).
+Instructions on how to request a copy of the data can be found at [the CVRL webpage](https://cvrl.nd.edu/projects/data/).
 
 <a name="modeling"/></a>
 
 ## 🚀 IEMI Modeling Script
 - Linux / Windows / macOS
 - Python 3.9+
-- CUDA (optional, but recommended)
+- CUDA (optional)
   
 There are only two scripts necessary for the IEMI Modeling.
 - RF_Optimization.py: Runs a grid search over provided parameters to determine theoretically optimal RF settings per model (models built in same as IJCB paper).
