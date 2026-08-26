@@ -34,7 +34,7 @@ We provide a new dataset of face videos representing 50 identities, recaptured f
   <img src="GitHub_media/02463d566_attack_digital.png" width="175">
   <img src="GitHub_media/02463d566_attack.png" width="175">
   <br>
-  <i>(a) Original MBCG v2 Image (top left), (b) Clean Image (top right), (c) Modeled Attack (bottom left), (d) Physical Attack (bottom right)</i>
+  <i>(a) Original MBCG v2 Image, (b) Clean Image, (c) Modeled Attack, (d) Physical Attack</i>
 </p>
 
 
