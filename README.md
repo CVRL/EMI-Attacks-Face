@@ -26,7 +26,7 @@ is possible to be conducted with commonly accessible radio frequency (RF) equipm
 ## 📀 Datasets
 
 ### IEMI Attack Dataset
-We provide a new dataset of face videos representing 50 identities, recaptured from MBGC (Multiple Biometric Grand Challenge) V2, by a camera under the IEMI attack along with recaptured videos without the IEMI attack, to serve as a new benchmark for testing reliability of face recognition models. There are five folders contained in the dataset: Baseline Identities, Cropped Identities, Attack Videos Digital, Attack Videos Physical, and Impostor Distributions. If desired, please acquire the original MBCG v2 dataset for full testing purposes. 
+We provide a new dataset of face videos representing 50 identities, recaptured from MBGC (Multiple Biometric Grand Challenge) V2, by a camera under the IEMI attack along with recaptured videos without the IEMI attack, to serve as a new benchmark for testing reliability of face recognition models. There are five folders contained in the dataset: Baseline Identities, Cropped Identities, Attack Videos Digital, Attack Videos Physical, and Impostor Distributions. If desired, please acquire the original MBGC v2 dataset for full testing purposes. 
 
 <p align="center">
   <img src="GitHub_media/02463d564_original.jpg" width="175">
@@ -34,7 +34,7 @@ We provide a new dataset of face videos representing 50 identities, recaptured f
   <img src="GitHub_media/02463d566_attack_digital.png" width="175">
   <img src="GitHub_media/02463d566_attack.png" width="175">
   <br>
-  <i>(a) Original MBCG v2 Image, (b) Clean Image, (c) Modeled Attack, (d) Physical Attack</i>
+  <i>(a) Original MBGC v2 Image, (b) Clean Image, (c) Modeled Attack, (d) Physical Attack</i>
 </p>
 
 
