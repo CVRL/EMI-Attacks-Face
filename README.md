@@ -39,7 +39,7 @@ We provide a new dataset of face videos representing 50 identities, recaptured f
 
 
 ### Obtaining Copies of the Datasets
-Instructions on how to request a copy of the data can be found at [the CVRL webpage](https://cvrl.nd.edu/projects/data/).
+Researchers interested in obtaining a copy of the data associated with the paper are requested to execute the [data sharing license agreement](GitHub_media/ND-IJCB26-IEMI-license.pdf). **Note for university licensees:** We cannot accept licenses signed by students or postdoctoral scholars under any circumstances. We cannot accept licenses signed by faculty members unless they have been explicitly delegated the authority to make contracts on behalf of the institution. Your institution's legal or contracting office must review and execute the license. 
 
 <a name="modeling"/></a>
 
